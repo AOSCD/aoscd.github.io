@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "AOSCD"
 Paginate = 1000
-googleAnalytics = "G-WF2M5JTX2H"
+googleAnalytics = ""
 theme = "showcase-hugo-theme"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
